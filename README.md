@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate Full Stack Developer from Orlando</h3>
+<h3 align="center">A passionate Full Stack Developer from Orlando FL🌴🌇</h3>
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtvcjhpZnMwZnptZnhnYzF5anJ4czQ3cG5qNWNwdzhvdnE2ZzRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
