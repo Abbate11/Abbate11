@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRpYTdlYWJzaWticmpkeXFxdW5tZm9icGRreG50NmFjMnM4eXZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84syshVj2Iq8Mf04/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI2NW1tZnd2ZjgxMDRwdnU0NGNsdm5mMHd1MTZ3a2xsaXgyMjd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
