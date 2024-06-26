@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Developer from Orlando</h3>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtvcjhpZnMwZnptZnhnYzF5anJ4czQ3cG5qNWNwdzhvdnE2ZzRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtvcjhpZnMwZnptZnhnYzF5anJ4czQ3cG5qNWNwdzhvdnE2ZzRmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="600" height="300"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbate11&label=Profile%20views&color=0e75b6&style=flat" alt="abbate11" /> </p>
