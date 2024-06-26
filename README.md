@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Abbate11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Abbate11" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbate11&show_icons=true&locale=en&layout=compact" alt="abbate11" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbate11&show_icons=true&locale=en&layout=compact" alt="abbate11" /></p><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbate11&show_icons=true&locale=en" alt="abbate11" /></p>
 
